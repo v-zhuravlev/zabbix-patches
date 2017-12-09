@@ -29,6 +29,8 @@ Please, vote for ZBXNEXT you're using or just care about - that could help to so
 
 [ZBXNEXT-2819](https://support.zabbix.com/browse/ZBXNEXT-2819): Adds an option to disable showing groups without problems in host and system status
 
+[ZBXNEXT-3496](https://support.zabbix.com/browse/ZBXNEXT-3496): Adds possibility to add own links into host context menu (and also automatically creates links to related graphs in trigger context menu)  
+
 ### Zabbix 3.0
 
 [ZBXNEXT-1109](https://support.zabbix.com/browse/ZBXNEXT-1109): Adds ability for zabbix-sender send values to two servers at same time
@@ -49,6 +51,8 @@ Please, vote for ZBXNEXT you're using or just care about - that could help to so
 
 [ZBX-5470](https://support.zabbix.com/browse/ZBX-5470): Add templateid in "Template cannot be linked to another template" exception
 
+[ZBXNEXT-3496](https://support.zabbix.com/browse/ZBXNEXT-3496): Adds possibility to add own links into host context menu (and also automatically creates links to related graphs in trigger context menu)  
+
 ### Zabbix 3.2
 
 [ZBXNEXT-543](https://support.zabbix.com/browse/ZBXNEXT-543): Adds an option to clear items and triggers while using hosts and templates window on template page.
@@ -67,6 +71,8 @@ Please, vote for ZBXNEXT you're using or just care about - that could help to so
 
 [ZBXNEXT-3089](https://support.zabbix.com/browse/ZBXNEXT-3089): Adds support of PK(itemid,clock) for history, history_uint tables. Exact version: Zabbix v3.2.4
 
+[ZBXNEXT-3496](https://support.zabbix.com/browse/ZBXNEXT-3496): Adds possibility to add own links into host context menu (and also automatically creates links to related graphs in trigger context menu)  
+
 ### Zabbix 3.4
 
 [ZBXNEXT-543](https://support.zabbix.com/browse/ZBXNEXT-543): Adds an option to clear items and triggers while using hosts and templates window on template page.
@@ -82,3 +88,5 @@ Please, vote for ZBXNEXT you're using or just care about - that could help to so
 [ZBX-5470](https://support.zabbix.com/browse/ZBX-5470): Add templateid in "Template cannot be linked to another template" exception
 
 [ZBXNEXT-3089](https://support.zabbix.com/browse/ZBXNEXT-3089): Adds support of PK(itemid,clock) for history, history_uint tables. Exact version: Zabbix v3.2.4
+
+[ZBXNEXT-3496](https://support.zabbix.com/browse/ZBXNEXT-3496): Adds possibility to add own links into host context menu (and also automatically creates links to related graphs in trigger context menu)  
