@@ -1,0 +1,12 @@
+[submodule "zabbix-2.4/ZBXNEXT-3496"]
+	path = zabbix-2.4/ZBXNEXT-3496
+	url = https://github.com/v-zhuravlev/zabbix-hostmenu
+[submodule "zabbix-3.0/ZBXNEXT-3496"]
+	path = zabbix-3.0/ZBXNEXT-3496
+	url = https://github.com/v-zhuravlev/zabbix-hostmenu
+[submodule "zabbix-3.2/ZBXNEXT-3496"]
+	path = zabbix-3.2/ZBXNEXT-3496
+	url = https://github.com/v-zhuravlev/zabbix-hostmenu
+[submodule "zabbix-3.4/ZBXNEXT-3496"]
+	path = zabbix-3.4/ZBXNEXT-3496
+	url = https://github.com/v-zhuravlev/zabbix-hostmenu
